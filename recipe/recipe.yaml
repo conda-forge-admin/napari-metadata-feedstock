@@ -27,11 +27,7 @@ requirements:
     - qtpy
     - pint
     - superqt >=0.8.2
-- napari >=0.5.2
-- numpy >=1.22.2
-- pint >=0.17
-- qtpy>=2.4.0
-- superqt >=0.8.2
+    - typing_extensions
 
 tests:
   - python:
